@@ -1,4 +1,4 @@
-App Engine application for the Udacity training course.
+
 
 ## Products
 - [App Engine][1]
